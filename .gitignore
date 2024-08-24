@@ -1,0 +1,14 @@
+# Ignore the 'abc' folder
+chats/
+data/
+logs/
+
+# Ignore all .log files
+*.log
+
+# Ignore temporary files
+*.tmp
+__pycache__
+
+# Ignore the build directory
+build/

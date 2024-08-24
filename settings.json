@@ -1,0 +1,19 @@
+{
+    "chat_path": "./build/chats",
+    "log_path": "./build/logs",
+    "verbose": false,
+    "kb_root_path": "./data/KnowledgeBase",
+    "vs_path": "./build/Vectorstore",
+    "vs_load": false,
+    "db_path": "./build/email.db",
+    "db_sql_schema_path": "emaildb.sql",
+    "email_load": false,
+    "email_path": "./build/Email",
+    "email_address": "sergio.kirienko@inycom.es",
+    "email_folder": "Inbox",
+    "email_count": 50,
+    "appointment_count": 5,
+    "graph_path": "./build/images/graph",
+    "OPENAI_API_KEY": "<your OpenAI API key>"
+}
+  

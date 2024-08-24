@@ -1,0 +1,23 @@
+Find the pizza margherita file then find the ingredients of the pizza then translate the ingredients to spanish
+Based on the pizza margherita file, what are the ingredients of the pizza?
+Ingredientes de la pizza margarita
+Get the emails with subject like 'Respuesta automatica' or 'Automatic reply' and output in a csv format employee_name,comeback_date then transform the csv output to markdown table
+Get the emails with subject like 'Respuesta automatica' or 'Automatic reply' and output in a csv format employee_name,comeback_date
+Find the emails sent from "%Ruben%" and summarize in bullet points
+Get the sender, date, subject and message body from last 3 emails not comming from a @sap.com address and summarize them
+List the contents from Work/Misc and return Aitana's hiredates from the csv file
+List the contents from Work/Misc and return the header of the csv file
+Return the path from the attachment with name like %20240815%
+What are the contents inside the food and drinks directories?
+Find the Drinks and Food directories and tell me the file names
+Find the Drinks and Food directories and print the file names
+Find the Drinks directory and print the contents
+Find the txt files from the Drinks directory and print them
+Get the last 3 emails and summarize them
+Get the last email from Ruben and summarize it
+Get the email subject and attachment path of all the csv attachments
+From https://en.wikipedia.org/wiki/Spain, find the ISO 3166-2 code of Spain
+From the Birthdays file only return Alex birthday
+Find the italy file and tell me who propposed the colors of the italian flag
+From the pizza file tell me the colors of the flag of italy.
+q: Using the create statement of participant and position, create a sql query that returns the participant name and titleseq
