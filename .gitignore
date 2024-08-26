@@ -1,8 +1,3 @@
-# Ignore the 'abc' folder
-chats/
-data/
-logs/
-
 # Ignore all .log files
 *.log
 
@@ -12,3 +7,6 @@ __pycache__
 
 # Ignore the build directory
 build/
+
+# Ignore settings
+settings.json

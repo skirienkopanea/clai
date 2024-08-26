@@ -90,4 +90,4 @@ def generate_graph(json_data,image_name):
     image_name = ''.join(c for c in image_name if c.isalnum() or c in (' ', '_')).rstrip().replace(" ","_")+".png"
 
     plt.savefig(os.path.join(settings["graph_path"],remove_diacritics(image_name)), format="PNG", bbox_inches='tight')
-    plt.show()
+    #plt.show()
